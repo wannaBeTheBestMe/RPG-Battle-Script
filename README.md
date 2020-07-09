@@ -1,0 +1,2 @@
+# RPG-Battle-Script
+This is text-based game similar to Final Fantasy. It was inspired by a similar game created by Nick Germaine. In this game, there is band of three heroes and it is their goal to beat the three enemies. You can use potions, spells, grenades and other weapons of choice to attack the enemy. You control all three users. This game runs on Python and will require a Python interpretor to play. The main.py file, as the name suggests, is the main file. That file must be run to play the game.
